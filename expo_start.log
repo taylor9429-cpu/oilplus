@@ -1,0 +1,16 @@
+env: load .env.local
+env: export EXPO_PUBLIC_API_URL
+Starting project at /home/ubuntu/oilnow-plus-rn
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  expo-camera@55.0.15 - expected version: ~17.0.10
+  expo-location@55.1.8 - expected version: ~19.0.8
+  react-native-maps@1.27.2 - expected version: 1.20.1
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web node_modules/expo-router/entry.js ▓▓▓▓░░░░░░░░░░░░ 30.9% (22/58)
+λ node_modules/expo-router/node/render.js ▓▓▓▓▓▓░░░░░░░░░░ 39.6% (290/466)
+Web node_modules/expo-router/entry.js ▓▓▓▓▓▓░░░░░░░░░░ 39.7% (271/436)
+λ node_modules/expo-router/node/render.js ▓▓▓▓▓▓▓▓▓▓░░░░░░ 68.0% (555/699)
